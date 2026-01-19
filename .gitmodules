@@ -1,0 +1,3 @@
+[submodule "vendor/staffdiscount"]
+	path = vendor/staffdiscount
+	url = git@github.com:simson2010/StaffDiscountServer.git
